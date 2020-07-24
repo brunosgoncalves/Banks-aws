@@ -13,6 +13,7 @@
   "author": "bg_horse",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.663.0"
+    "aws-sdk": "^2.663.0",
+    "node-schedule": "^1.3.2"
   }
 }
